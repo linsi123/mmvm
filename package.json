@@ -10,7 +10,8 @@
   },
   "devDependencies": {
     "@dsp/company-commit": "^1.0.0",
-    "conventional-changelog-cli": "^2.0.12"
+    "conventional-changelog-cli": "^2.0.12",
+    "pre-push": "^0.1.1"
   },
   "repository": {
     "type": "git",
@@ -22,5 +23,7 @@
     "url": "https://github.com/linsi123/mvvm/issues"
   },
   "homepage": "https://github.com/linsi123/mvvm#readme",
-  "pre-push": ["version"]
+  "pre-push": [
+    "version"
+  ]
 }
