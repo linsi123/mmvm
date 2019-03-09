@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "commit": "company-commit",
-    "version": "conventional-changelog -p angular -o CHANGELOG.md"
+    "version": "conventional-changelog -p angular -i CHANGELOG.md"
   },
   "devDependencies": {
     "@dsp/company-commit": "^1.0.0",
