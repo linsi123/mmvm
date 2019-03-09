@@ -3,6 +3,7 @@
 
 ### Bug Fixes
 
+* **index.js:** test ([6d9d5b7](https://github.com/linsi123/mvvm/commit/6d9d5b7))
 * **index.js:** 删掉一行 ([311dcc7](https://github.com/linsi123/mvvm/commit/311dcc7))
 
 
