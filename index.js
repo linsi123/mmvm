@@ -18,8 +18,9 @@ function MVVM(options = {}) {
 			}
 		})
 	}
-
 	
+
+
 	Compile(this.$options.el,this)
 
 	setTimeout(()=>{
