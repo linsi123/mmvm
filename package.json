@@ -21,5 +21,6 @@
   "bugs": {
     "url": "https://github.com/linsi123/mvvm/issues"
   },
-  "homepage": "https://github.com/linsi123/mvvm#readme"
+  "homepage": "https://github.com/linsi123/mvvm#readme",
+  "pre-push": ["version"]
 }
