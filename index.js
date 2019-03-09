@@ -7,6 +7,8 @@ function MVVM(options = {}) {
 
 	observe(data)
 
+
+	
 	for(const key in data) {
 		Object.defineProperty(this,key,{
 			enumrable: true,
