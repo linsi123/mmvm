@@ -1,0 +1,23 @@
+{
+  "name": "mvvm",
+  "version": "1.0.0",
+  "description": "vue的mvvm实现",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@dsp/company-commit": "^1.0.0",
+    "conventional-changelog-cli": "^2.0.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linsi123/mvvm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linsi123/mvvm/issues"
+  },
+  "homepage": "https://github.com/linsi123/mvvm#readme"
+}
